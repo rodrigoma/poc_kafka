@@ -31,8 +31,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <kafka.version>0.9.0.0</kafka.version>
-        <confluent.version>1.0</confluent.version>
+        <kafka.version>0.10.1.0-cp2</kafka.version>
+        <confluent.version>3.1.1</confluent.version>
         <avro.version>1.7.7</avro.version>
     </properties>
 
